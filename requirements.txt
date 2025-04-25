@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+transformers
+sentence-transformers
+faiss-cpu
+accelerate
+bitsandbytes
+pymupdf
